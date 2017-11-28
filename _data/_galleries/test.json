@@ -1,0 +1,63 @@
+{
+  "name": "Test",
+  "photos": [
+    {
+      "name": "Truffle Pizza",
+      "file_name": "Truffle Pizza.jpg",
+      "file_type": "image/jpeg",
+      "url": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/Truffle-Pizza.jpg",
+      "tags": "",
+      "file_size": 7296996,
+      "width": 2848,
+      "height": 4272,
+      "description": "",
+      "date_added": "2017-11-03-181640",
+      "url_large": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/large_Truffle_Pizza.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/medium_Truffle_Pizza.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/small_Truffle_Pizza.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/xsmall_Truffle_Pizza.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/thumb_Truffle_Pizza.jpg",
+      "git_file_name": "_assets/image_data/Truffle Pizza.json",
+      "path": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181640/Truffle-Pizza.jpg"
+    },
+    {
+      "name": "Truffle Pizza in Tribeca",
+      "file_name": "Truffle Pizza in Tribeca.jpg",
+      "file_type": "image/jpeg",
+      "url": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/Truffle-Pizza-in-Tribeca.jpg",
+      "tags": "",
+      "file_size": 7560389,
+      "width": 2848,
+      "height": 4272,
+      "description": "",
+      "date_added": "2017-11-03-181408",
+      "url_large": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/large_Truffle_Pizza_in_Tribeca.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/medium_Truffle_Pizza_in_Tribeca.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/small_Truffle_Pizza_in_Tribeca.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/xsmall_Truffle_Pizza_in_Tribeca.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/thumb_Truffle_Pizza_in_Tribeca.jpg",
+      "git_file_name": "_assets/image_data/Truffle Pizza in Tribeca.json",
+      "path": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/Truffle-Pizza-in-Tribeca.jpg"
+    },
+    {
+      "name": "Ring in the New Year",
+      "file_name": "Ring in the New Year.jpg",
+      "file_type": "image/jpeg",
+      "url": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/Ring-in-the-New-Year.jpg",
+      "tags": "",
+      "file_size": 5247398,
+      "width": 4134,
+      "height": 4134,
+      "description": "",
+      "date_added": "2017-11-03-182148",
+      "url_large": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/large_Ring_in_the_New_Year.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/medium_Ring_in_the_New_Year.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/small_Ring_in_the_New_Year.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/xsmall_Ring_in_the_New_Year.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/thumb_Ring_in_the_New_Year.jpg",
+      "git_file_name": "_assets/image_data/Ring in the New Year.json",
+      "path": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/Ring-in-the-New-Year.jpg"
+    }
+  ],
+  "description": ""
+}
