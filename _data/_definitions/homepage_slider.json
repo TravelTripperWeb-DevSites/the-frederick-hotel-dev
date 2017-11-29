@@ -19,7 +19,7 @@
     "event": {
        "type": "model",
        "model_name": "events",
-       "display_field": "name"
+       "display_field": "title"
     },
     "sort_order": 
     { 
