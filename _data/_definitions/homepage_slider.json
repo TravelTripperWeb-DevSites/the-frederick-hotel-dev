@@ -20,7 +20,7 @@
        "type": "model",
        "model_name": "events",
        "display_field": "name"
-    }
+    },
     "sort_order": 
     { 
       "type": "integer",
