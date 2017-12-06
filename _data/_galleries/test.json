@@ -57,6 +57,20 @@
       "url_thumb": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/thumb_Ring_in_the_New_Year.jpg",
       "git_file_name": "_assets/image_data/Ring in the New Year.json",
       "path": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/Ring-in-the-New-Year.jpg"
+    },
+    {
+      "name": "hoteldivasfvideo!",
+      "file_name": "hoteldivasfvideo.mp4",
+      "file_type": "video/mp4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-12-06-113910/hoteldivasfvideo.mp4",
+      "tags": "",
+      "file_size": 16992797,
+      "width": null,
+      "height": null,
+      "description": "",
+      "date_added": "2017-12-06-113910",
+      "git_file_name": "_assets/image_data/hoteldivasfvideo.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-12-06-113910/hoteldivasfvideo.mp4"
     }
   ],
   "description": ""
