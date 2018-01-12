@@ -25,11 +25,12 @@
     "caption": ""
   },
   "description_localized": {
-    "en": "<p>TEST</p>",
-    "es": "<p>PRUEBA</p>"
+    "en": "<p>TEST!!</p>",
+    "es": "<p>PRUEBA?</p>"
   },
   "book_now_localized": {
     "en": "TEST",
     "es": "PRUEBA"
-  }
+  },
+  "terms_list": "<p>terms</p>"
 }
