@@ -29,7 +29,8 @@
   },
   "description": {
     "required": true,
-    "type": "richtext"
+    "type": "richtext",
+   "localizable": true
   },
   "addon":{
 	"label":"Addon",
@@ -43,7 +44,8 @@
     "type": "richtext"
   },
   "book_now": {
-    "label":"Book Now URL"
+    "label":"Book Now URL",
+	  "localizable": true
   },
   "publish": {
     "label":"Publish Offer",
