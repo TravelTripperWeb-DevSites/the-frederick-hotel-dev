@@ -1,0 +1,182 @@
+{
+  "name_localized": {
+    "en": "Standard Double Room, Garden View",
+    "es": "Standard Double Room, Garden View"
+  },
+  "short_description_localized": {
+    "en": "Standard Double Room, Garden View",
+    "es": "Standard Double Room, Garden View"
+  },
+  "description_localized": {
+    "en": "<strong>2 Twin Beds</strong><br />258-sq-foot (24-sq-meter) room with garden views<br /><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>2 Twin Beds</strong><br />258-sq-foot (24-sq-meter) room with garden views<br /><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "68445_1_yankee_large",
+      "file_name": "68445_1_yankee_large.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174439/68445_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-06-174439",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 80566,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174439/large_68445_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174439/medium_68445_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174439/small_68445_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174439/xsmall_68445_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174439/thumb_68445_1_yankee_large.jpg",
+      "alt": "Image 1",
+      "caption": [
+        "Image 1",
+        "",
+        "Image 1",
+        [
+          "#<Environment::MediaFile:0x007fbc887a0908>",
+          "#<Environment::MediaFile:0x007fbc74961c60>",
+          "#<Environment::MediaFile:0x007fbc74e97c48>",
+          "#<Environment::MediaFile:0x007fbc856d6d40>"
+        ]
+      ]
+    },
+    {
+      "name": "68446_1_yankee_large",
+      "file_name": "68446_1_yankee_large.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174443/68446_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-06-174443",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 43995,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174443/large_68446_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174443/medium_68446_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174443/small_68446_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174443/xsmall_68446_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174443/thumb_68446_1_yankee_large.jpg",
+      "alt": "Image 2",
+      "caption": [
+        "Image 2",
+        "",
+        "Image 2",
+        [
+          "#<Environment::MediaFile:0x007fbc887a0908>",
+          "#<Environment::MediaFile:0x007fbc74961c60>",
+          "#<Environment::MediaFile:0x007fbc74e97c48>",
+          "#<Environment::MediaFile:0x007fbc856d6d40>"
+        ]
+      ]
+    },
+    {
+      "name": "68447_1_yankee_large",
+      "file_name": "68447_1_yankee_large.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174446/68447_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-06-174446",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 43341,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174446/large_68447_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174446/medium_68447_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174446/small_68447_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174446/xsmall_68447_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174446/thumb_68447_1_yankee_large.jpg",
+      "alt": "Image 3",
+      "caption": [
+        "Image 3",
+        "",
+        "Image 3",
+        [
+          "#<Environment::MediaFile:0x007fbc887a0908>",
+          "#<Environment::MediaFile:0x007fbc74961c60>",
+          "#<Environment::MediaFile:0x007fbc74e97c48>",
+          "#<Environment::MediaFile:0x007fbc856d6d40>"
+        ]
+      ]
+    },
+    {
+      "name": "68448_1_yankee_large",
+      "file_name": "68448_1_yankee_large.jpg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174449/68448_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-06-174449",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 35576,
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174449/large_68448_1_yankee_large.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174449/medium_68448_1_yankee_large.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174449/small_68448_1_yankee_large.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174449/xsmall_68448_1_yankee_large.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174449/thumb_68448_1_yankee_large.jpg",
+      "alt": "Image 4",
+      "caption": [
+        "Image 4",
+        "",
+        "Image 4",
+        [
+          "#<Environment::MediaFile:0x007fbc887a0908>",
+          "#<Environment::MediaFile:0x007fbc74961c60>",
+          "#<Environment::MediaFile:0x007fbc74e97c48>",
+          "#<Environment::MediaFile:0x007fbc856d6d40>"
+        ]
+      ]
+    }
+  ],
+  "reztrip_room_id": "RM3",
+  "order": 3
+}
