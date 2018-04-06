@@ -1,30 +1,19 @@
 {
   "name": "68451_1_yankee_large",
   "file_name": "68451_1_yankee_large.jpg",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174424/68451_1_yankee_large.jpg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175148/68451_1_yankee_large.jpg",
   "tags": "",
   "description": "",
-  "date_added": "2018-04-06-174424",
+  "date_added": "2018-04-06-175148",
   "file_type": "image/jpeg",
   "width": 800,
   "height": 600,
   "file_size": 62583,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174424/large_68451_1_yankee_large.jpg",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174424/medium_68451_1_yankee_large.jpg",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174424/small_68451_1_yankee_large.jpg",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174424/xsmall_68451_1_yankee_large.jpg",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174424/thumb_68451_1_yankee_large.jpg",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175148/large_68451_1_yankee_large.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175148/medium_68451_1_yankee_large.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175148/small_68451_1_yankee_large.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175148/xsmall_68451_1_yankee_large.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175148/thumb_68451_1_yankee_large.jpg",
   "alt": "Image 3",
-  "caption": [
-    "Image 3",
-    "",
-    "Image 3",
-    [
-      "#<Environment::MediaFile:0x007fbc9233c600>",
-      "#<Environment::MediaFile:0x007fbc8dd34db0>",
-      "#<Environment::MediaFile:0x007fbc8f603990>",
-      "#<Environment::MediaFile:0x007fbc8f3786a8>",
-      "#<Environment::MediaFile:0x007fbc8df06850>"
-    ]
-  ]
+  "caption": "Image 3"
 }
