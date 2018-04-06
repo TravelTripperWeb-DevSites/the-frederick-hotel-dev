@@ -1,26 +1,19 @@
 {
   "name": "68454_1_yankee_large",
   "file_name": "68454_1_yankee_large.jpg",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174435/68454_1_yankee_large.jpg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175159/68454_1_yankee_large.jpg",
   "tags": "",
   "description": "",
-  "date_added": "2018-04-06-174435",
+  "date_added": "2018-04-06-175159",
   "file_type": "image/jpeg",
   "width": 800,
   "height": 600,
   "file_size": 51852,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174435/large_68454_1_yankee_large.jpg",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174435/medium_68454_1_yankee_large.jpg",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174435/small_68454_1_yankee_large.jpg",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174435/xsmall_68454_1_yankee_large.jpg",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174435/thumb_68454_1_yankee_large.jpg",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175159/large_68454_1_yankee_large.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175159/medium_68454_1_yankee_large.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175159/small_68454_1_yankee_large.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175159/xsmall_68454_1_yankee_large.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-175159/thumb_68454_1_yankee_large.jpg",
   "alt": "Image 1",
-  "caption": [
-    "Image 1",
-    "",
-    "Image 1",
-    [
-      "#<Environment::MediaFile:0x007fbc8bd37e68>"
-    ]
-  ]
+  "caption": "Image 1"
 }
