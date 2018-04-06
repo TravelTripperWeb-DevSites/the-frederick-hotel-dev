@@ -1,0 +1,29 @@
+{
+  "name": "68445_1_yankee_large",
+  "file_name": "68445_1_yankee_large.jpg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174401/68445_1_yankee_large.jpg",
+  "tags": "",
+  "description": "",
+  "date_added": "2018-04-06-174401",
+  "file_type": "image/jpeg",
+  "width": 800,
+  "height": 600,
+  "file_size": 80566,
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174401/large_68445_1_yankee_large.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174401/medium_68445_1_yankee_large.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174401/small_68445_1_yankee_large.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174401/xsmall_68445_1_yankee_large.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174401/thumb_68445_1_yankee_large.jpg",
+  "alt": "Image 1",
+  "caption": [
+    "Image 1",
+    "",
+    "Image 1",
+    [
+      "#<Environment::MediaFile:0x007fbc7507cf40>",
+      "#<Environment::MediaFile:0x007fbc85e9a540>",
+      "#<Environment::MediaFile:0x007fbc854656b0>",
+      "#<Environment::MediaFile:0x007fbc92780d88>"
+    ]
+  ]
+}
