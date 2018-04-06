@@ -1,17 +1,30 @@
 {
   "name": "68449_1_yankee_large",
   "file_name": "68449_1_yankee_large.jpg",
-  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-173636/68449_1_yankee_large.jpg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174343/68449_1_yankee_large.jpg",
   "tags": "",
   "description": "",
-  "date_added": "2018-04-06-173636",
+  "date_added": "2018-04-06-174343",
   "file_type": "image/jpeg",
   "width": 800,
   "height": 600,
   "file_size": 48329,
-  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-173636/large_68449_1_yankee_large.jpg",
-  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-173636/medium_68449_1_yankee_large.jpg",
-  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-173636/small_68449_1_yankee_large.jpg",
-  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-173636/xsmall_68449_1_yankee_large.jpg",
-  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-173636/thumb_68449_1_yankee_large.jpg"
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174343/large_68449_1_yankee_large.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174343/medium_68449_1_yankee_large.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174343/small_68449_1_yankee_large.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174343/xsmall_68449_1_yankee_large.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-06-174343/thumb_68449_1_yankee_large.jpg",
+  "alt": "Image 1",
+  "caption": [
+    "Image 1",
+    "",
+    "Image 1",
+    [
+      "#<Environment::MediaFile:0x007fbc8ae43498>",
+      "#<Environment::MediaFile:0x007fbc8bbfcd50>",
+      "#<Environment::MediaFile:0x007fbc8a27cec0>",
+      "#<Environment::MediaFile:0x007fbc84bbcfe0>",
+      "#<Environment::MediaFile:0x007fbc74b5b070>"
+    ]
+  ]
 }
