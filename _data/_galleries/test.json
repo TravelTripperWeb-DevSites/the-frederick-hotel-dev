@@ -91,6 +91,25 @@
       "git_file_name": "_assets/image_data/Truffle Pizza in Tribeca.json",
       "path": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-181408/Truffle-Pizza-in-Tribeca.jpg",
       "alt": "Truffle Pizza in Tribeca"
+    },
+    {
+      "name": "Celino_Fence2",
+      "file_name": "Celino_Fence2.jpg",
+      "file_type": "image/jpeg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/Celino-Fence2.jpg",
+      "tags": "",
+      "file_size": 140574,
+      "width": 1448,
+      "height": 701,
+      "description": "",
+      "date_added": "2018-04-13-143511",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/large_Celino_Fence2.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/medium_Celino_Fence2.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/small_Celino_Fence2.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/xsmall_Celino_Fence2.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/thumb_Celino_Fence2.jpg",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2018-04-13-143511/Celino-Fence2.jpg",
+      "alt": "Party Line"
     }
   ],
   "description": ""
