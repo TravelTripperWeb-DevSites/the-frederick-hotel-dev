@@ -1,0 +1,36 @@
+{
+  "title": "Test",
+  "seo_title": "test",
+  "excerpt": "test",
+  "url_friendly_name": "test",
+  "banner_image": {
+    "name": "propertys-hero_image-nathaniel-1",
+    "file_name": "propertys-hero_image-nathaniel-1.jpg",
+    "file_type": "image/jpeg",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/propertys-hero-image-nathaniel-1.jpg",
+    "tags": "",
+    "file_size": 236038,
+    "width": 2048,
+    "height": 877,
+    "description": "",
+    "date_added": "2017-11-29-180404",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/large_propertys-hero_image-nathaniel-1.jpg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/medium_propertys-hero_image-nathaniel-1.jpg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/small_propertys-hero_image-nathaniel-1.jpg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/xsmall_propertys-hero_image-nathaniel-1.jpg",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/thumb_propertys-hero_image-nathaniel-1.jpg",
+    "git_file_name": "_assets/image_data/propertys-hero_image-nathaniel-1.json",
+    "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_156_808/media/2017-11-29-180404/propertys-hero-image-nathaniel-1.jpg",
+    "alt": "test",
+    "caption": ""
+  },
+  "description_localized": {
+    "en": "<p>TEST</p>",
+    "es": "<p>PRUEBA!</p>"
+  },
+  "book_now_localized": {
+    "en": "TEST",
+    "es": "PRUEBA"
+  },
+  "terms_list": "<p>terms</p>"
+}

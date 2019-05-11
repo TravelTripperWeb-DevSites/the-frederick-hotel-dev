@@ -1,5 +1,5 @@
 {
-  "slider_image": {
+  "image": {
     "name": "Ring in the New Year",
     "file_name": "Ring in the New Year.jpg",
     "file_type": "image/jpeg",
@@ -17,9 +17,11 @@
     "url_thumb": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/thumb_Ring_in_the_New_Year.jpg",
     "git_file_name": "_assets/image_data/Ring in the New Year.json",
     "path": "//cdn.traveltripper.io/site-assets/480_720_9044/media/2017-11-03-182148/Ring-in-the-New-Year.jpg",
-    "alt": "Ring in the New Year",
+    "alt": "Test",
     "caption": ""
   },
-  "carousel_caption": "<p>THE&nbsp;CLASSIC<br />ROOMS &amp; SUITES</p>",
-  "sort_order": 2
+  "title": "Test",
+  "description": "Test",
+  "alt_tag": "Test",
+  "location": "Here"
 }
